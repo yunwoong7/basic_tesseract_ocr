@@ -12,7 +12,7 @@
 
 | Setup tutorial                                               |
 | :----------------------------------------------------------- |
-| [Tesseract, PyTesseract 설치방법](https://github.com/yunwoong7/basic_tesseract_ocr/doc/setup_tutorial.md) |
+| [Tesseract, PyTesseract 설치방법](https://github.com/yunwoong7/basic_tesseract_ocr/blob/main/doc/setup_tutorial.md) |
 
 ------
 
